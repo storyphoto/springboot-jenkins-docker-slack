@@ -1,4 +1,4 @@
-# 도커로 CI 구축 연습하기 (젠킨스, slack)
+# 도커로 CI 구축 연습하기 (젠킨스, slack)_
 
 안녕하세요? 이번 시간엔 도커로 CI 구축 연습하기 (젠킨스, slack) 예제를 진행해보려고 합니다.  
 모든 코드는 [Github](https://github.com/jojoldu/springboot-jenkins-docker-slack)에 있기 때문에 함께 보시면 더 이해하기 쉬우실 것 같습니다.  
